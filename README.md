@@ -1,8 +1,18 @@
-# Ethical Issues of AI in Healthcare: Hepatitis C Disease Stage Prediction
+# Ethical Issues for AI – HCV-Egy Dataset Fairness Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+
+
+### GISMA University of Applied Sciences  
+
+- **Module:** M515 – Ethical Issues for AI  
+- **Student:** Batuhan Öztürk | GH1031500
+- **Program:** M.Eng. Computer Science    
+- **GitHub:** https://github.com/BatuhanOzturk0/Ethical-Issues-of-AI
+
+---
 
 ## 📋 Table of Contents
 - [Overview](#overview)
